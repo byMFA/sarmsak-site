@@ -1,0 +1,6 @@
+@import "tailwindcss";
+:root{
+  --paper:#f4efe8; --ink:#1b1715; --sand:#b59677;
+  --muted:#efe7dd; --card:#f9f6f1;
+}
+body{ background:var(--paper); color:var(--ink); }
